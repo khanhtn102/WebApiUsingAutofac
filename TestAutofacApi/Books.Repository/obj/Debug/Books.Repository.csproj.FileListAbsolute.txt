@@ -1,0 +1,13 @@
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Repository.dll.config
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Repository.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Repository.pdb
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Model.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\EntityFramework.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Model.pdb
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\Books.Model.dll.config
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\EntityFramework.xml
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\obj\Debug\Books.Repository.csprojResolveAssemblyReference.cache
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\obj\Debug\Books.Repository.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Repository\obj\Debug\Books.Repository.pdb

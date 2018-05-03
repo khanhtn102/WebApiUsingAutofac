@@ -1,0 +1,13 @@
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Business.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Business.pdb
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Model.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Repository.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\EntityFramework.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Model.pdb
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Model.dll.config
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Repository.pdb
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\Books.Repository.dll.config
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\bin\Debug\EntityFramework.xml
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\obj\Debug\Books.Business.csprojResolveAssemblyReference.cache
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\obj\Debug\Books.Business.dll
+c:\users\khanhtn\documents\visual studio 2017\Projects\TestAutofacApi\Books.Business\obj\Debug\Books.Business.pdb
